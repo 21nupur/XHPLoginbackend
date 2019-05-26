@@ -8,4 +8,7 @@ Clone Repository
 
 go inside moshi_login folder, pip install -r requirements.txt
 
+
+Maybe required- 1. python manage.py makemigrations 2. python manage.py migrate
+
 To start, python manage.py runserver
